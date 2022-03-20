@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.parentDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.childDiv{
+  align-items: center;
+  height: 400px;
+  width: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
